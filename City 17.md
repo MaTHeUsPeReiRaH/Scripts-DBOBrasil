@@ -1,10 +1,6 @@
-Name:City 17 ~ Scripts
-Codec:Opus Voice
-Codec Quality:6 (estimated bitrate: 5.71 KiB/s)
-Type:Permanent
-Subscription Status:Subscribed
-Voice Data Encryption:Unencrypted
- Description:
+City 17 ~ Scripts
+
+ 
 450 Suu Shenron Direita :
 
 [Waypoints]
