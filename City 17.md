@@ -4,33 +4,6 @@ City 17 ~ Scripts
 -
 -
 
-450 Suu Shenron Direita :
-
-[Waypoints]
-S 246 420 10
-S 272 400 10
-S 251 377 10
-S 240 343 10
-S 248 310 10
-S 245 352 10
-S 257 411 10
-S 243 420 10
-
-[Looting]
-3043  e gold
-3035  e dollar
-
-Sayajin's Porta 450 Na Esquerda
-
-[Waypoints]
-S 126 407 10
-S 134 360 10
-S 173 335 10
-S 171 305 10
-S 187 311 10
-S 173 340 10
-S 134 384 10
-
 250 Brasil :
 
 [Waypoints]
@@ -161,3 +134,4 @@ S 210 593 10
 S 210 597 10
 S 210 602 10
 S 210 607 10
+
