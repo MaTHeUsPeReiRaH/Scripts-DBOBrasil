@@ -1,6 +1,9 @@
 City 17 ~ Scripts
 
  
+-
+-
+
 450 Suu Shenron Direita :
 
 [Waypoints]
